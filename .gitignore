@@ -6,3 +6,4 @@ data_description.txt
 *.json
 *.tsv
 *.tfevents
+*.weights.h5
