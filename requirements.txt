@@ -21,6 +21,7 @@ matplotlib-inline==0.2.1
 narwhals==2.17.0
 nest-asyncio==1.6.0
 numpy==2.4.2
+nvidia-nccl-cu12==2.29.7
 packaging==26.0
 pandas==3.0.1
 parso==0.8.6
@@ -44,3 +45,4 @@ threadpoolctl==3.6.0
 tornado==6.5.4
 traitlets==5.14.3
 wcwidth==0.6.0
+xgboost==3.2.0
