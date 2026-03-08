@@ -1,5 +1,5 @@
 .venv
 *.csv
-*.txt
+data_description.txt
 *.npy
 *.joblib
