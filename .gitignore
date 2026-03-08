@@ -7,3 +7,5 @@ data_description.txt
 *.tsv
 *.tfevents
 *.weights.h5
+*.pkl
+*.keras
